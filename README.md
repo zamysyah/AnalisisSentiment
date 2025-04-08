@@ -7,7 +7,7 @@ Berikut adalah contoh `README.md` yang menarik dan informatif untuk proyek senti
 Selamat datang di **Movie Review Sentiment Analyzer**!  
 Sebuah aplikasi berbasis web yang mampu **memprediksi sentimen** dari ulasan film—apakah positif atau negatif—dengan model **Logistic Regression** yang telah dilatih dari dataset IMDB!
 
-<img src="preview.png" alt="preview" style="width:100%;border-radius:10px;" />
+<img src="LogisticRegressionReview.png" alt="preview" style="width:100%;border-radius:10px;" />
 
 ---
 
