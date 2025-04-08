@@ -1,7 +1,3 @@
-Berikut adalah contoh `README.md` yang menarik dan informatif untuk proyek sentiment analysis kamu, yang ditampilkan dengan tampilan gelap dan hasil prediksi seperti di screenshot:
-
----
-
 # 🎬 Movie Review Sentiment Analyzer
 
 Selamat datang di **Movie Review Sentiment Analyzer**!  
